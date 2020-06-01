@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436471032807",
+    "firebase_url": "https://logintest-a1940.firebaseio.com",
+    "project_id": "logintest-a1940",
+    "storage_bucket": "logintest-a1940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436471032807:android:324521fb2c1ca387776b42",
+        "android_client_info": {
+          "package_name": "com.e.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436471032807-un3knnfj2lu71475qe1lhtt8s86hh16v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVSmJVxsr6ayk2BTJMWRnmt8SP7gFeOs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436471032807-un3knnfj2lu71475qe1lhtt8s86hh16v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
